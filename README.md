@@ -17,6 +17,8 @@ My name is Arindam Saha and I am currently an undergraduate student at UC Berkel
 - 📫 How to reach me: arindamsaha@berkeley.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can do a handstand for a minute!
+
+Looking to meet other startup founders in the SF Bay Area 🌊 and NYC Metropolitan Area 🌆
 -->
 
 
