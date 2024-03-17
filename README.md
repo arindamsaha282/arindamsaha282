@@ -12,7 +12,7 @@ My name is Arindam Saha and I am currently an undergraduate student at UC Berkel
 
 - 🔭 I’m currently working on: Telepresence Robots, Generative AI and Natural Language Processing 
 - 🌱 I’m currently learning: Data Analysis (PySpark, Pandas, NumPy) and Machine Learning (Pytorch), Full Stack Web Development and Blockchain!
-- 👯 I’m looking to collaborate on: research projects that aim to make a impact in the biotechnology field.
+- 👯 I’m looking to collaborate on: research projects that aim to make social impact through technology in the humanitaian sector.
 - 💬 Ask me about: Coding, Life, Adventures!
 - 📫 How to reach me: arindamsaha@berkeley.edu
 - 😄 Pronouns: he/him
