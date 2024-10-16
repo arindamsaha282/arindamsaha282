@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Arindam Saha and I am currently an undergraduate student at UC Berkeley majoring in Materials Science and Engineering and EECS. I am exploring a multitude of facets of the realm of computer science including web development, AI/ML and so forth! Currently building @ Stealth. Stay tuned for updates on what I am building!
+My name is Arindam Saha and I am currently an undergraduate student at UC Berkeley majoring in Materials Science and Engineering and EECS. I am exploring he intersection of multi-agent systems and human-AI collaboration and how it can be applied for social good (concentrating on humanitarian assistance) and supporting humans! Currently building @ Stealth. Stay tuned for updates on what I am building!
 
 ### 👨‍🔬 I've worked at:
 
