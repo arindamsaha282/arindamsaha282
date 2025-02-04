@@ -15,8 +15,6 @@ My name is Arindam Saha and I am currently an undergraduate student at UC Berkel
 - 👯 I’m looking to collaborate on: research projects that aim to make social impact through technology in the humanitaian sector.
 - 💬 Ask me about: Coding, Life, Adventures!
 - 📫 How to reach me: arindamsaha@berkeley.edu
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I can do a handstand for a minute!
 
 Looking to meet other startup founders in the SF Bay Area 🌊 and NYC Metropolitan Area 🌆
 -->
