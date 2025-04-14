@@ -11,7 +11,7 @@ Still building @ Stealth- Stay tuned for updates on what I am building!
 
 ### 👨‍💻 Here's what I am up to lately:
 
-- 🔭 I’m currently working on: Human Agent Interaction, Embodied AI, Generative AI, Computer Vision for Humanitarian Assistance and Game-Theoretic approaches.
+- 🔭 I’m currently working on: Human Agent Interaction, Embodied AI, Agile Robotics, Computer Vision for Humanitarian Assistance and Game-Theoretic approaches.
 - 📫 How to reach me: arindamsaha@berkeley.edu
 
 Looking to meet other *disruptive* founders in the SF Bay Area 🌊 and NYC Metropolitan Area 🌆
