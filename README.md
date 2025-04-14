@@ -2,7 +2,7 @@
 
 My name is Arindam Saha and I am currently an undergraduate student at UC Berkeley majoring in Materials Science and Engineering and EECS. 
 
-My research broadly explores human-AI colloboration, building agentic/AI systems that can work around and support humans. I am particuraly interested in building intelligent systems for underserved and third world countries (think AI for diagnostics, assisted teaching; etc).
+My research broadly explores human-AI colloboration, building agentic/AI systems that can work around and support humans. I am particuraly interested in building intelligent systems for third world countries and underserved communities worldwide (think AI for diagnostics, assisted teaching; etc).
 
 Currently I am focused on maximizing and improving existing learning mechanisms (ex:game theory, meta learning, diffusion policy) in real-world scenarios. My work capulates my vision of using AI for social impact and the betterment of society where AI is not seen as a replacement, but more of a beneficiary resource, an assistant to our daily challenges and ultimately uplifting communities in need.
 
